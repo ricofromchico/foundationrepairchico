@@ -1,0 +1,4 @@
+   User-agent: *
+   Allow: /
+
+   Sitemap: https://ricofromchico.github.io/sitemap.xml
